@@ -1,8 +1,7 @@
 
 .social-buttons {
 	display: flex;
-	flex-wrap: wrap;
-	justify-content: left;
+	justify-content: center;
 	margin-top: 10px;
   }
   .social-buttons__button {
